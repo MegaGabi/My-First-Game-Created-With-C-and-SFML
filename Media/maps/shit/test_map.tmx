@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="9">
+ <tileset firstgid="1" name="vava" tilewidth="32" tileheight="32" tilecount="8">
+  <image source="vava.png" width="128" height="64"/>
+ </tileset>
+ <layer name="layer_sprites" width="10" height="10">
+  <data>
+   <tile gid="1"/>
+   <tile gid="2684354563"/>
+   <tile gid="2684354563"/>
+   <tile gid="5"/>
+   <tile gid="6"/>
+   <tile gid="7"/>
+   <tile gid="2684354563"/>
+   <tile gid="2684354563"/>
+   <tile gid="2684354563"/>
+   <tile gid="2684354561"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="1610612743"/>
+   <tile gid="2"/>
+   <tile gid="1610612740"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="1610612740"/>
+   <tile gid="4"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2684354565"/>
+   <tile gid="1610612742"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2684354566"/>
+   <tile gid="1610612741"/>
+   <tile gid="2"/>
+   <tile gid="3221225476"/>
+   <tile gid="2684354564"/>
+   <tile gid="2"/>
+   <tile gid="3221225476"/>
+   <tile gid="2684354564"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2684354567"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="3"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3221225475"/>
+   <tile gid="1610612737"/>
+   <tile gid="1610612739"/>
+   <tile gid="1610612739"/>
+   <tile gid="3221225479"/>
+   <tile gid="3221225478"/>
+   <tile gid="3221225477"/>
+   <tile gid="1610612739"/>
+   <tile gid="1610612739"/>
+   <tile gid="1610612739"/>
+   <tile gid="3221225473"/>
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="1" name="Player" x="141" y="76" width="32" height="32"/>
+  <object id="3" name="solid" x="173" y="138" width="39" height="75"/>
+  <object id="4" name="solid" x="77.5" y="136.5" width="39" height="75"/>
+  <object id="5" name="solid" x="0.5" y="0" width="26.5" height="317"/>
+  <object id="6" name="solid" x="29.5" y="290" width="291.5" height="29.5"/>
+  <object id="7" name="solid" x="296" y="24" width="23.5" height="264.5"/>
+  <object id="8" name="solid" x="29" y="-1.5" width="289" height="23.5"/>
+ </objectgroup>
+</map>

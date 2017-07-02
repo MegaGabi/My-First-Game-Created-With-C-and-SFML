@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="23" height="19" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="вава" tilewidth="32" tileheight="32" tilecount="8">
+  <image source="vava.png" width="128" height="64"/>
+ </tileset>
+ <layer name="Слой тайлов 1" width="23" height="19">
+  <data encoding="base64" compression="zlib">
+   eJy1lIsNgCAMRK+KyliO4iiO4iiOZqOSNFhL8UNyMUF4HP1AAFpgqRWxUBi8Ds0D8b6VDF90fPe10cmMgm35kv/TngBMwTe3spbcl3a25Udb54mZxuZYTa0QfcQOx9wlN/n9w3luDfuPXD6pwRI7j61X5GDjxdDiKWP2BfsP3ymeqa9k/dBLdhrMGoXf+caH+SbevX0e9mD0gqevLHZ/sqOimrrX2F3Zt6vuNXapj2pzvwGmhkSY
+  </data>
+ </layer>
+</map>
